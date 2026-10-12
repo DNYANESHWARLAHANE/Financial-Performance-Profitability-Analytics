@@ -4,7 +4,7 @@ An interactive financial analytics dashboard built with **Microsoft Power BI**, 
 
 ## Dashboard Preview
 
-![Financial Performance & Profitability Dashboard](./Financial Performance & Profitability Intelligence.png)
+![Financial Performance & Profitability Dashboard](./Financial%20Performance%20%26%20Profitability%20Intelligence.png)
 
 ## Project Overview
 
